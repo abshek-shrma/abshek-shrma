@@ -1,0 +1,8 @@
+Hi this is Abhishek Sharma
+Starting my first project at AdGlobal360 
+This is my first Git Repository	
+Adding some basic lines to the file. 
+
+
+
+~Thanks!!
